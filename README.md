@@ -13,11 +13,13 @@ Python for Data Science
 
 교육 일정 (수강생 이해도에 따라 내용을 조정할 수 있습니다)
 - 5월 4일 ~ 28일 월/목 오후 12:30 ~ 1:30
-1. (5월 4일) Python development platforms, Language basics
+1. (5월 4일, 월) Python development platforms, Language basics
 2. Python Control Structures, Functions
 3. Data management with Pandas I
 4. Data management with Pandas II
 5. Classification I: K-NN, Decision Trees
 6. Classification II: Logistic regression, SVM
 7. Classification III: Naive Bayes, Random Forest, Performance evaluation
-8. Plotting & Visualization
+8. (5월 28일, 목) Plotting & Visualization
+
+본 강의 site는 5월 28일 이후 close될 예정입니다.
