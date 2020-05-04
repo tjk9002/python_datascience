@@ -1,5 +1,4 @@
-# python_datascience
-Python for Data Science
+# Python for Data Science
 
 수강생 요구사항:
 - 파이썬 설치: https://www.anaconda.com/products/individual 에 있는 Anaconda 설치
